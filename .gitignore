@@ -39,6 +39,8 @@ src/main/generated
 .env
 mvnw
 mvnw.cmd
+.mvn/wrapper
+
 
 ### Producer demo ###
 http/http-client.private.env.json
